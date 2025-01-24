@@ -38,7 +38,7 @@ I’m passionate about solving complex problems and building tools that empower 
 <img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 <img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" />
 <img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kibana/kibana-original.svg" />
-___
+<hr style="border: 1px solid #ccc;" />
 <!--
 **abbasjdev/abbasjdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
