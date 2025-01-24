@@ -1,6 +1,6 @@
 ## 📈 Abbas Jawad
 
-**'Analyst/ Developer/ Optimizer'**
+**`Analyst/ Developer/ Optimizer`**
 
 I am a developer and analyst with data and systems at the forefront of my contribution. 
 <!--
