@@ -2,16 +2,18 @@
 
 **`Analyst/ Developer/ Optimizer`**
 
-Welcome to my GitHub! I'm a dynamic professional with a passion for transforming data into actionable strategies and optimizing processes for impactful results. My experience spans across industries, combining technical expertise, strategic thinking, and innovation to deliver measurable improvements.
+I'm a dynamic professional driven to transform data into actionable strategies and optimize processes for impactful results. My experience spans across industries, combining technical expertise, strategic thinking, and innovation to deliver measurable improvements.
 
 🛠️ What I Bring:
 Analyst: Leveraging tools like SQL, R, and Excel to uncover insights and drive data-informed decisions.
 Developer: Proficient in HTML, CSS, JavaScript, TypeScript, and React Native, creating solutions that enhance user experience and streamline workflows.
 Optimizer: Proven track record in process improvement, saving costs, and enhancing operational efficiency by up to $150,000 annually in prior roles.
+
 🌟 Career Highlights:
 Redesigned and launched a company website for [Legacy Financial](https://legacyfinancial.ai/), boosting traffic by 40% and conversions by 200%. 
 Built dashboards that improved tracking, monitoring, and performance by 15%-20%.
 Achieved top-tier performance in Amazon's logistics network, driving operational excellence.
+
 🎓 Education & Certifications:
 Bachelor’s in Business Administration, American University of Beirut.
 Google Data Analytics and Data Analysis with R Programming certifications.
