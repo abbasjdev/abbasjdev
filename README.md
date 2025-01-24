@@ -20,7 +20,9 @@ Google Data Analytics and Data Analysis with R Programming certifications.
 📈 Let’s Collaborate!
 I’m passionate about solving complex problems and building tools that empower teams to exceed their goals. Feel free to connect with me or explore my repositories to see my projects in action.
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/abbas-jawad-1a85a2161/)
+<br/ >
+### Languages and Tools
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" / >
 <!--
 **abbasjdev/abbasjdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
