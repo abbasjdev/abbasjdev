@@ -2,6 +2,8 @@
 
 **`Analyst/ Developer/ Optimizer`**
 
+---
+
 I'm a dynamic professional driven to transform data into actionable strategies and optimize processes for impactful results. My experience spans across industries, combining technical expertise, strategic thinking, and innovation to deliver measurable improvements.
 
 🛠️ What I Bring:
