@@ -20,7 +20,7 @@ Google Data Analytics and Data Analysis with R Programming certifications.
 
 📈 Let’s Collaborate!
 I’m passionate about solving complex problems and building tools that empower teams to exceed their goals. Feel free to connect with me or explore my repositories to see my projects in action.
-<br>
+---
 
 ### Languages and Tools
 <img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> 
