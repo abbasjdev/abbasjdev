@@ -21,7 +21,7 @@ Bachelor’s in Business Administration, American University of Beirut.
 Google Data Analytics and Data Analysis with R Programming certifications.
 
 📈 Let’s Collaborate!
-I’m passionate about solving complex problems and building tools that empower teams to exceed their goals. Feel free to connect with me or explore my repositories to see my projects in action.
+I solve complex problems and build tools that empower teams to exceed their goals. Feel free to connect with me or explore my repositories to see my projects in action.
 
 ---
 
